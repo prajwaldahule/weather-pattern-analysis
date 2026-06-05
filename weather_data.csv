@@ -1,0 +1,105 @@
+Date,City,Temperature_Max,Temperature_Min,Humidity,Rainfall_mm,Wind_Speed_kmh,Weather_Condition,UV_Index
+2024-01-01,Mumbai,32,24,78,0,12,Sunny,6
+2024-01-01,Delhi,18,8,55,0,8,Clear,4
+2024-01-01,Bangalore,27,16,62,0,10,Partly Cloudy,5
+2024-01-01,Chennai,31,23,80,2,14,Humid,6
+2024-01-08,Mumbai,33,25,80,0,11,Sunny,7
+2024-01-08,Delhi,19,9,52,0,9,Clear,4
+2024-01-08,Bangalore,28,17,60,0,10,Sunny,5
+2024-01-08,Chennai,32,24,82,5,15,Cloudy,6
+2024-01-15,Mumbai,34,25,82,3,13,Partly Cloudy,7
+2024-01-15,Delhi,20,10,50,0,7,Clear,5
+2024-01-15,Bangalore,28,17,61,0,11,Sunny,5
+2024-01-15,Chennai,33,24,83,8,16,Rainy,5
+2024-01-22,Mumbai,33,25,79,0,12,Sunny,7
+2024-01-22,Delhi,21,11,48,0,8,Clear,5
+2024-01-22,Bangalore,29,18,59,0,10,Sunny,6
+2024-01-22,Chennai,32,23,81,3,14,Humid,6
+2024-01-29,Mumbai,34,26,81,0,13,Sunny,8
+2024-01-29,Delhi,22,12,46,0,9,Clear,5
+2024-01-29,Bangalore,29,18,60,0,11,Partly Cloudy,6
+2024-01-29,Chennai,33,24,82,6,15,Cloudy,6
+2024-02-05,Mumbai,35,26,80,0,12,Sunny,8
+2024-02-05,Delhi,24,13,44,0,8,Clear,6
+2024-02-05,Bangalore,30,19,58,0,10,Sunny,6
+2024-02-05,Chennai,34,25,80,0,13,Sunny,7
+2024-02-12,Mumbai,35,27,82,0,13,Sunny,8
+2024-02-12,Delhi,25,14,42,0,9,Sunny,6
+2024-02-12,Bangalore,30,19,57,0,11,Sunny,7
+2024-02-12,Chennai,34,25,81,0,14,Sunny,7
+2024-02-19,Mumbai,36,27,83,0,12,Hot,9
+2024-02-19,Delhi,26,15,40,0,8,Clear,7
+2024-02-19,Bangalore,31,20,55,0,10,Sunny,7
+2024-02-19,Chennai,35,26,82,0,13,Hot,8
+2024-02-26,Mumbai,36,28,84,0,11,Hot,9
+2024-02-26,Delhi,27,16,38,0,9,Sunny,7
+2024-02-26,Bangalore,31,20,54,0,11,Sunny,7
+2024-02-26,Chennai,35,26,83,0,14,Hot,8
+2024-03-04,Mumbai,37,28,82,0,12,Hot,9
+2024-03-04,Delhi,29,17,36,0,10,Sunny,8
+2024-03-04,Bangalore,32,21,53,0,11,Sunny,8
+2024-03-04,Chennai,36,27,81,0,13,Hot,9
+2024-03-11,Mumbai,37,29,83,0,13,Hot,10
+2024-03-11,Delhi,30,18,35,0,10,Sunny,8
+2024-03-11,Bangalore,32,21,52,5,12,Partly Cloudy,7
+2024-03-11,Chennai,36,27,82,0,14,Hot,9
+2024-03-18,Mumbai,38,29,84,0,12,Hot,10
+2024-03-18,Delhi,31,19,33,0,11,Sunny,9
+2024-03-18,Bangalore,33,22,51,8,11,Rainy,6
+2024-03-18,Chennai,37,28,80,0,13,Hot,10
+2024-03-25,Mumbai,38,30,85,0,11,Hot,10
+2024-03-25,Delhi,32,20,32,0,10,Sunny,9
+2024-03-25,Bangalore,33,22,53,12,12,Rainy,6
+2024-03-25,Chennai,37,28,81,0,14,Hot,10
+2024-04-01,Mumbai,38,30,86,5,13,Partly Cloudy,9
+2024-04-01,Delhi,34,22,30,0,11,Hot,9
+2024-04-01,Bangalore,32,22,58,18,13,Rainy,5
+2024-04-01,Chennai,37,28,83,3,15,Humid,9
+2024-04-08,Mumbai,37,30,88,15,15,Rainy,8
+2024-04-08,Delhi,35,23,32,0,12,Hot,10
+2024-04-08,Bangalore,31,21,62,25,14,Heavy Rain,4
+2024-04-08,Chennai,36,28,85,10,16,Rainy,8
+2024-04-15,Mumbai,36,29,90,22,16,Rainy,7
+2024-04-15,Delhi,36,24,31,0,12,Hot,10
+2024-04-15,Bangalore,30,21,65,30,15,Heavy Rain,4
+2024-04-15,Chennai,36,27,86,15,17,Rainy,7
+2024-04-22,Mumbai,35,29,91,28,17,Heavy Rain,6
+2024-04-22,Delhi,37,25,30,0,11,Hot,10
+2024-04-22,Bangalore,29,20,68,35,16,Heavy Rain,3
+2024-04-22,Chennai,35,27,87,20,18,Rainy,7
+2024-04-29,Mumbai,35,29,92,32,18,Heavy Rain,6
+2024-04-29,Delhi,38,26,29,0,12,Hot,11
+2024-04-29,Bangalore,29,20,70,28,15,Heavy Rain,3
+2024-04-29,Chennai,34,27,88,18,17,Rainy,6
+2024-05-06,Mumbai,34,29,93,38,19,Heavy Rain,5
+2024-05-06,Delhi,39,27,28,0,13,Hot,11
+2024-05-06,Bangalore,28,19,72,22,14,Rainy,4
+2024-05-06,Chennai,34,26,89,12,16,Rainy,6
+2024-05-13,Mumbai,33,28,94,45,20,Heavy Rain,5
+2024-05-13,Delhi,40,28,27,0,13,Very Hot,12
+2024-05-13,Bangalore,28,19,74,18,13,Rainy,4
+2024-05-13,Chennai,33,26,90,8,15,Cloudy,5
+2024-05-20,Mumbai,32,28,95,52,21,Heavy Rain,4
+2024-05-20,Delhi,41,29,26,0,14,Very Hot,12
+2024-05-20,Bangalore,27,19,76,15,14,Partly Cloudy,5
+2024-05-20,Chennai,33,25,88,5,14,Partly Cloudy,6
+2024-05-27,Mumbai,31,27,96,58,22,Heavy Rain,4
+2024-05-27,Delhi,42,30,25,0,14,Very Hot,13
+2024-05-27,Bangalore,27,18,78,10,13,Partly Cloudy,5
+2024-05-27,Chennai,32,25,87,3,13,Partly Cloudy,6
+2024-06-03,Mumbai,30,27,97,65,23,Heavy Rain,3
+2024-06-03,Delhi,41,29,27,5,15,Hot,11
+2024-06-03,Bangalore,26,18,80,8,14,Cloudy,4
+2024-06-03,Chennai,32,25,86,2,13,Partly Cloudy,6
+2024-06-10,Mumbai,29,26,98,70,24,Heavy Rain,3
+2024-06-10,Delhi,39,28,30,12,16,Partly Cloudy,9
+2024-06-10,Bangalore,26,18,82,5,15,Cloudy,4
+2024-06-10,Chennai,31,24,85,0,12,Sunny,7
+2024-06-17,Mumbai,29,26,97,68,23,Heavy Rain,3
+2024-06-17,Delhi,37,27,35,18,17,Rainy,8
+2024-06-17,Bangalore,25,17,84,3,14,Cloudy,4
+2024-06-17,Chennai,31,24,84,0,12,Sunny,7
+2024-06-24,Mumbai,28,25,98,72,25,Heavy Rain,3
+2024-06-24,Delhi,35,26,40,22,18,Rainy,7
+2024-06-24,Bangalore,25,17,86,2,15,Cloudy,3
+2024-06-24,Chennai,30,24,83,0,11,Sunny,7
